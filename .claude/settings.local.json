@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gradlew clean:*)",
+      "Bash(.gradlew.bat clean:*)",
+      "Bash(gradlew.bat clean:*)",
+      "Bash(powershell -Command \"Add-MpPreference -ExclusionPath ''C:\\Users\\cnayr\\.gradle''\")",
+      "Bash(powershell -Command:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Gray Theme -->
+    <color name="background">#121212</color>
+    <color name="background_dark">#0A0A0A</color>
+    <color name="surface">#1E1E1E</color>
+
+    <!-- Accent - White/Gray -->
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#E0E0E0</color>
+    <color name="primary_light">#FFFFFF</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667EEA</color>
+    <color name="gradient_end">#764BA2</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9E9E9E</color>
+    <color name="text_hint">#616161</color>
+
+    <!-- Input Colors -->
+    <color name="input_background">#1E1E1E</color>
+    <color name="input_stroke">#333333</color>
+    <color name="input_stroke_focused">#FFFFFF</color>
+</resources>
