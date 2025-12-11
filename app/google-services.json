@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138438178164",
+    "project_id": "mobile-comp-a1d3c",
+    "storage_bucket": "mobile-comp-a1d3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138438178164:android:daac8dc3898253db05e821",
+        "android_client_info": {
+          "package_name": "com.example.loginformpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9Eb_MD5RI-vHf-6jdHnWQyVK_POiHhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

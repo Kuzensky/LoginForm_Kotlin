@@ -34,4 +34,35 @@
     <string name="enter_confirm_password">Re-enter your password</string>
     <string name="register">Register</string>
     <string name="already_have_account">Already have an account? </string>
+
+    <!-- Home Screen -->
+    <string name="app_title">EconoTrack: Financial Growth App</string>
+    <string name="app_intro">This app helps users build financial habits that support sustainable economic growth.</string>
+    <string name="savings_tracker">Savings Tracker</string>
+    <string name="income_expenses">Income vs Expenses</string>
+    <string name="career_tips">Career Tips</string>
+    <string name="logout">Logout</string>
+
+    <!-- Savings Tracker -->
+    <string name="savings_title">Savings Tracker</string>
+    <string name="add_savings">Add Savings</string>
+    <string name="savings_amount">Savings Amount</string>
+    <string name="savings_description">Description (optional)</string>
+    <string name="savings_description_optional">Description (optional)</string>
+    <string name="save">Save</string>
+    <string name="total_savings">Total Savings</string>
+    <string name="no_savings_yet">No savings entries yet. Start saving today!</string>
+    <string name="delete">Delete</string>
+
+    <!-- Income vs Expenses -->
+    <string name="income_expenses_title">Income vs Expenses Dashboard</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="monthly_expenses">Monthly Expenses</string>
+    <string name="remaining_balance">Remaining Balance</string>
+    <string name="update_finances">Update Finances</string>
+    <string name="financial_summary">Financial Summary</string>
+
+    <!-- Career Tips -->
+    <string name="career_tips_title">Career Development Tips</string>
+    <string name="tips_subtitle">Grow your career and boost productivity</string>
 </resources>

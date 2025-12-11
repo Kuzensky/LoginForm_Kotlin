@@ -4,9 +4,15 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Dark Gray Theme -->
-    <color name="background">#121212</color>
-    <color name="background_dark">#0A0A0A</color>
-    <color name="surface">#1E1E1E</color>
+    <color name="background">#0F1419</color>
+    <color name="background_dark">#0A0E13</color>
+    <color name="surface">#1E2A3A</color>
+    <color name="card_bg">#1E2A3A</color>
+
+    <!-- Teal Accent -->
+    <color name="teal_primary">#26A69A</color>
+    <color name="teal_dark">#00796B</color>
+    <color name="teal_light">#4DB6AC</color>
 
     <!-- Accent - White/Gray -->
     <color name="primary">#FFFFFF</color>
