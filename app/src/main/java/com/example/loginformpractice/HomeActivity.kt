@@ -84,7 +84,12 @@ class HomeActivity : AppCompatActivity() {
                 if (document != null && document.exists()) {
                     val user = document.toObject(User::class.java)
                     user?.let {
-                        txtWelcomeUser.text = it.fullName
+                        // Capitalize first letter of each word
+                        val capitalizedName = it.fullName.split(" ")
+                            .joinToString(" ") { word ->
+                                word.lowercase().replaceFirstChar { char -> char.uppercase() }
+                            }
+                        txtWelcomeUser.text = capitalizedName
                     }
                 } else {
                     txtWelcomeUser.text = "User"
